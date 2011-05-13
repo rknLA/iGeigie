@@ -1,3 +1,9 @@
-v2 schematic.  not currently complete.
+v2 schematic.  still not complete.
 
-board layout coming soon.
+needs power switch, ccfl board, and headphone connector.
+
+current design expects a piggy-back housing with top (or bottom) panel
+that has the geiger window, the power switch, a power LED, and a click LED.
+
+currently no speaker, or capacitor discharge button.
+
