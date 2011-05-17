@@ -1,0 +1,24 @@
+Part numbers are Digikey part numbers.
+
+Part                    Descr               Qty
+2SC1815RTE2FCT-ND       NPN transistor      1
+338-3102-ND             2.2nF capacitor     1
+PPCHF3.30MCT-ND         3.3M resistor       1
+CF14JT1K00CT-ND         1k resistor         2
+P607-ND                 Green LED           1
+160-1665-ND             Red LED             1
+PPCQJ680KCT-ND          680k resistor       1
+1N4007FSCT-ND           Diode               3
+445-2781-ND             47pF capacitor      1
+CF12JT4K70CT-ND         4.7k resistor       1
+490-5380-ND             0.1uF capacitor     3
+CF12JT100KCT-ND         100k resistor       1
+P5134-ND                10uF capacitor      1
+497-1963-5-ND           NE555               1
+EG1917-ND               Power Switch        1
+
+
+NOTE: BOM is currently incomplete and does not include the CCFL power board
+or the geiger tube itself.
+
+

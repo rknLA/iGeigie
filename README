@@ -1,9 +1,13 @@
-v2 schematic.  still not complete.
+v2 schematic.  fairly complete, but could possibly use some work.
 
-needs power switch, ccfl board, and headphone connector.
+ccfl board footprint is in place (the JKL BXA-*** parts all have the same
+dimensions), and a power switch is on the board.
+
+digikey bom included as well
 
 current design expects a piggy-back housing with top (or bottom) panel
 that has the geiger window, the power switch, a power LED, and a click LED.
 
 currently no speaker, or capacitor discharge button.
+
 
