@@ -11,3 +11,12 @@ that has the geiger window, the power switch, a power LED, and a click LED.
 currently no speaker, or capacitor discharge button.
 
 
+-----
+
+updated 6/13/11
+
+holes were too small for high power resistors (overkill anyways)
+
+added 100k resistor from schematic, but it might need to be shorted when populating.
+
+the -laen files are rough and incomplete.  next spin should probably be with friendly surface mount parts like 0805s.
