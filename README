@@ -1,12 +1,8 @@
-v3 is the latest version of the schematic, which uses Sean Bonner's prototype as a reference.  The old Model 2 schematic was actually a previous version.
+SafeCast iGeigie PCB based on Pieter Franken and Sean Bonner's prototype.
 
-It's not yet complete, but it's redesigned using surface mount parts to fit in a 1.9" square (for a more streamlined enclosure).
+There is currently nothing on the TODO list, though rerouting may not be a terrible idea.
 
+The current design relies on 4xAAA batteries, and hardwiring a TRRS connector to the pcb.  A jack would be a better option, but takes up too much space.
 
-TODO:
-- CCFL board needs to be hacked.. the output capacitor needs to be bypassed.
-- Capacitors need to be picked so we use the right footprints. 1210 maybe?
-- Power switch needs to be selected.
-- Currently no speaker, or capacitor discharge button. Probably no room for speaker
-
+Other battery designs would allow for more space and a larger board.
 
